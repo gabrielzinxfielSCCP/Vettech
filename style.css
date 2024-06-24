@@ -1,0 +1,129 @@
+body{background-image:repeating-linear-gradient(#aef8fd,#43a7ce);
+}
+.Background{
+    background-image:repeating-linear-gradient(#aef8fd,#43a7ce);
+
+        margin: 0 0 0 0px; }
+.cabecalho {
+    color: rgb(0, 0, 0);
+    display: flex;
+    padding: 30px 0;
+    font-size: 30px; 
+    justify-content:left;
+    align-items: center;}
+    
+    .rodaperigth{
+
+        text-align: right;
+    }
+    .rodapeleft{
+
+        text-align: left;
+    }
+    .Criador{
+        display: flex;
+        font-size: 25px; 
+        color: rgb(0, 0, 0);
+        align-items: center;
+        justify-content:center;
+        
+    }
+    .Site{
+        display: flex;
+        font-size: 25px; 
+        color: rgb(0, 0, 0);
+        align-items: center;
+        justify-content:center;
+        
+    }
+    .Página{
+        display: flex;
+        font-size: 25px; 
+        color: rgb(0, 0, 0);
+        align-items: center;
+        justify-content:center;
+    }
+    .Escrita{
+        display: flex;
+        font-size: 30px; 
+        color: rgb(0, 0, 0);
+        align-items: center;
+        justify-content:center;
+        
+    }
+    .nav{ display: inline;
+        text-align: var(#000000);
+            margin: 0 0 0 20px; }
+        
+            h1{font-size: 30px; text-align: center}
+        p{font-size: 20px; text-align: justify;}
+        strong {font-size: 21px}
+        nav li{ display: inline;
+        margin: 0 0 0 20px; }
+        
+        @media screen and (max-width: 768px) {
+.cabecalho{
+    display:Block;
+} 
+        }
+        
+        
+        .Itens{
+            text-align: inline;
+            padding: 16px 0;
+        }
+        #Quemeusou{
+            padding: 24px 0;
+        }
+        .Gabriel-imagem{
+            width: 120px;
+        }
+        
+        .icone{
+            width: 24px;
+            padding: 4px 8px;
+        
+        }
+        
+        
+        .Apresentação-titulo{
+            text-align: center;
+            padding: 50px 0;
+        }
+        
+        .Eu{
+            display: grid;
+            grid-template-columns: 20% 20% 20% 20% 20%;
+        }
+      
+.Nutrição{
+    display: block;
+    text-align: center;
+    font-size: 25px; 
+    color: rgb(0, 0, 0);
+    align-items: center;
+    justify-content:center;
+
+}
+.Artepet{
+    text-align: center;
+    font-size: 25px;
+}
+.cabecalho-imagem{
+    width: 10%;
+
+}
+.Curiosidade-imagem{
+    width: 10%;
+    display: block;
+}
+.Picolé-imagem{
+    width: 10%;
+
+}
+.Ordenhadeira-imagem{
+    width: 10%;
+}
+.Frutas-imagem{
+    width: 25%;
+}
